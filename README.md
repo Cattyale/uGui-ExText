@@ -23,6 +23,7 @@ X:超文本id
 
 ## 实现方法
 1.动态表情包:
+
 (1).带有组件ExText,SpriteGraphic
 
 (2).XXX.asset挂脚本SpirtAsset
@@ -34,6 +35,7 @@ X:超文本id
 (5).SpriteGraphic组件挂资源XXX.asset
 
 2超文本实现:
+
 (1).带有组件ExText
 
 (2).extext.onHrefClick.AddListener(Onclick);
